@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Mike Porter
-brief-intro: Porter.Michael.James@gmail.com
+title: Title
+brief-intro: small introduction
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://www.mikepotato.com # the base hostname & protocol for your site
+url: your url goes here # the base hostname & protocol for your site
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A description hanging out in the footer
 
 permalink: /:year/:month/:day/:title/
 
